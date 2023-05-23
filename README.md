@@ -1,4 +1,4 @@
-# DevOps Capstone Template
+# DevOps Capstone Template - Dao Trung Hieu
 
 ![Build Status](https://github.com/lodluvis/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg) 
 
